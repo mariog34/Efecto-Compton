@@ -1,0 +1,13 @@
+
+{
+    "constants": {
+        "h": 6.62607015e-34,
+        "c": 299792458,
+        "m_e": 9.10938356e-31
+    },
+    "simulation_parameters": {
+        "initial_wavelengths": [1e-10, 1e-8],
+        "angles": [0, 3.141592653589793],
+        "num_photons": 10000
+    }
+}
